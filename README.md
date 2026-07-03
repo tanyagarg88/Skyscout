@@ -1,16 +1,118 @@
-# skyscout
+# 🌦️ SkyScout – Weather Application
 
-A new Flutter project.
+SkyScout is a Flutter-based weather application that provides real-time weather updates using the user's current location. The app delivers accurate weather information through REST APIs and enhances the user experience with personalized activity suggestions based on current weather conditions.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📍 Real-time weather based on current location
+- 🌡️ Live temperature, humidity, wind speed, and weather conditions
+- ☁️ Dynamic weather updates using REST APIs
+- 💡 Smart activity suggestions based on weather
+- 🔥 Firebase & Firestore integration
+- 📱 Clean, responsive, and intuitive user interface
+- 🌍 Cross-platform support with Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Framework:** Flutter
+- **Language:** Dart
+- **Backend:** Firebase, Firestore
+- **API:** REST APIs
+- **Location:** Geolocator / Location Services
+- **IDE:** Android Studio
+- **Version Control:** Git & GitHub
+
+---
+
+## 📂 Project Structure
+
+```text
+lib/
+├── models/
+├── screens/
+├── services/
+├── widgets/
+├── utils/
+└── main.dart
+```
+
+---
+
+## 🚀 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/tanyagarg88/Skyscout.git
+```
+
+Navigate to the project
+
+```bash
+cd Skyscout
+```
+
+Install dependencies
+
+```bash
+flutter pub get
+```
+
+Run the application
+
+```bash
+flutter run
+```
+
+---
+
+## 📸 Screenshots
+
+Add screenshots of the application here.
+
+| Home | Weather Details | Activity Suggestions |
+|------|-----------------|----------------------|
+| Screenshot | Screenshot | Screenshot |
+
+---
+
+## 🎯 Key Learnings
+
+- Flutter Mobile Development
+- REST API Integration
+- Firebase & Firestore
+- Location Services
+- State Management
+- Responsive UI Design
+- Git & GitHub Workflow
+
+---
+
+## 🚀 Future Enhancements
+
+- 7-Day Weather Forecast
+- Air Quality Index (AQI)
+- Weather Alerts & Notifications
+- Multiple City Search
+- Weather Maps
+- Dark Mode
+- Favorite Locations
+
+---
+
+## 👩‍💻 Developer
+
+**Tanya Garg**
+
+B.Tech Computer Science Engineering
+
+- GitHub: https://github.com/tanyagarg88
+- LinkedIn: https://www.linkedin.com/in/your-linkedin/
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
