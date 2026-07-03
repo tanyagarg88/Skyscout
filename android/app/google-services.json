@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412984912369",
+    "project_id": "skyscout-7fa9e",
+    "storage_bucket": "skyscout-7fa9e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412984912369:android:45412d6597e9e0f3b87c50",
+        "android_client_info": {
+          "package_name": "com.skyscout.skyscout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQsg-jFyMcX65GHWKKx7z7_vnl-nF4iMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
